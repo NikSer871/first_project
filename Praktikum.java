@@ -2,12 +2,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 
-class Main {
+class Praktikum {
 
     public static void main(String[] args) {
         ArrayList<Double> a = new ArrayList<>();
-        a.add(5.0);
-        a.add(5.0);
+        a.add(1.0);
+        a.add(1.0);
         a.add(4.0);
         a.remove(100.0);
         System.out.println(a);
